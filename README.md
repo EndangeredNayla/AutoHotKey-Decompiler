@@ -12,7 +12,3 @@ To use this tool simply run the **Decompile.bat** file after renaming the progra
 
 ## 🐧 Linux
 TBA
-
-# 📝 Notice
-
-This repository will not exist without the hard work of [TheRandomLabs](https://github.com/TheRandomLabs) and their [Changelog Generator](https://github.com/TheRandomLabs/ChangelogGenerator)'s [contributors](https://github.com/TheRandomLabs/ChangelogGenerator/graphs/contributors)
